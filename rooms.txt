@@ -1,0 +1,6 @@
+Phong 1,Vip,9000,yes
+Phong 2,Vip,9000,yes
+Phong 3,Normal,300,yes
+Phong 4,Vip,9000,yes
+Phong 5,Normal,1000,yes
+Phong 6,Normal,2000,yes
